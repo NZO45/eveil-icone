@@ -1,2 +1,3 @@
 # eveil-icone
-Icône des notifications iPhone de l'app Éveil (afficée par Bark).
+
+Icône des notifications iPhone de l'app Éveil (affichée par Bark).
